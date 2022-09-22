@@ -1,2 +1,9 @@
-<h1> Hello, Welcome this is my Devops sample !!! </h1>
+<html>
+<body>
 
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+</body>
+</html>
